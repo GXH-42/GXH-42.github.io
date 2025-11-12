@@ -25,8 +25,8 @@ on:
 
 env:
   # please change to your own config.
-  RUN_TYPE: pass # support strava/nike/garmin/coros/garmin_cn/garmin_sync_cn_global/keep/only_gpx/only_fit/nike_to_strava/strava_to_garmin/tcx_to_garmin/strava_to_garmin_cn/garmin_to_strava/garmin_to_strava_cn/oppo/db_updater, Please change the 'pass' it to your own
-  ATHLETE: ben_29
+  RUN_TYPE: all # support strava/nike/garmin/coros/garmin_cn/garmin_sync_cn_global/keep/only_gpx/only_fit/nike_to_strava/strava_to_garmin/tcx_to_garmin/strava_to_garmin_cn/garmin_to_strava/garmin_to_strava_cn/oppo/db_updater, Please change the 'pass' it to your own
+  ATHLETE: GXH-42
   TITLE: Workouts
   MIN_GRID_DISTANCE: 10 # change min distance here
   TITLE_GRID: Over 10km Workouts # also here
@@ -117,7 +117,15 @@ jobs:
         run: |
           python run_page/keep_to_strava_sync.py ${{ secrets.KEEP_MOBILE }} ${{ secrets.KEEP_PASSWORD }} ${{ secrets.STRAVA_CLIENT_ID }} ${{ secrets.STRAVA_CLIENT_SECRET }} ${{ secrets.STRAVA_CLIENT_REFRESH_TOKEN }} --sync-types running cycling hiking
         # If you only want to sync 'type running' modify args --sync-types running, default script is to sync all data (rides, hikes and runs).
-
+      - name: Run sync Keep script  
+        if: env.RUN_TYPE == 'keep' || env.RUN_TYPE == 'all'  
+        run: |  
+          python run_page/keep_sync.py ${{ secrets.KEEP_MOBILE }} ${{ secrets.KEEP_PASSWORD }}  
+  
+      - name: Run sync Xingzhe script  
+        if: env.RUN_TYPE == 'xingzhe' || env.RUN_TYPE == 'all'  
+        run: |  
+          python run_page/xingzhe_sync.py ${{ secrets.XINGZHE_MOBILE }} ${{ secrets.XINGZHE_PASSWORD }} 
       - name: Run sync Strava script
         if: env.RUN_TYPE == 'strava'
         run: |

@@ -12638,5 +12638,21 @@
 "elevation_gain": 0.0,
 "source": "Keep",
 "streak": 1
+},
+{
+"run_id": 204314436,
+"name": "\u884c\u8005\u9a91\u884c\u8f6f\u4ef6",
+"distance": 2667.588957550881,
+"moving_time": "0:11:25",
+"type": "Ride",
+"start_date": "2025-11-17 17:04:22",
+"start_date_local": "2025-11-17 17:04:22",
+"location_country": "\u5170\u6c60\u4e09\u8def, \u6e2d\u57ce\u8857\u9053, \u6e2d\u57ce\u533a, \u54b8\u9633\u5e02, \u9655\u897f\u7701, \u4e2d\u56fd",
+"summary_polyline": "wqypEg{~vSCzAa@AqFy\\m@oKgCoEiIuVW\\FlAnHvUrCtM`Gd_@xA@u@kF",
+"average_heartrate": null,
+"average_speed": 3.894290448979388,
+"elevation_gain": 0.0,
+"source": "xingzhe",
+"streak": 1
 }
 ]

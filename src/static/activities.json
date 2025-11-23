@@ -12640,6 +12640,22 @@
 "streak": 1
 },
 {
+"run_id": 9223370273483469807,
+"name": "Ride from keep",
+"distance": 2634.360107421875,
+"moving_time": "0:11:36",
+"type": "Ride",
+"start_date": "2025-11-17 09:04:01",
+"start_date_local": "2025-11-17 17:04:01",
+"location_country": "{'latitude': 31.583202, 'longitude': 120.298386, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u6c5f\u82cf\u7701', 'city': '\u65e0\u9521\u5e02', 'cityCode': '0510', 'district': None, 'districtCode': None, 'startLatitude': 0.0, 'startLongitude': 0.0}",
+"summary_polyline": null,
+"average_heartrate": null,
+"average_speed": 3.7850001543417746,
+"elevation_gain": 0.0,
+"source": "Keep",
+"streak": 1
+},
+{
 "run_id": 204314436,
 "name": "\u884c\u8005\u9a91\u884c\u8f6f\u4ef6",
 "distance": 2667.588957550881,
@@ -12653,6 +12669,22 @@
 "average_speed": 3.894290448979388,
 "elevation_gain": 0.0,
 "source": "xingzhe",
+"streak": 1
+},
+{
+"run_id": 9223370273311846807,
+"name": "Ride from keep",
+"distance": 29371.0703125,
+"moving_time": "1:30:11",
+"type": "Ride",
+"start_date": "2025-11-19 07:08:29",
+"start_date_local": "2025-11-19 15:08:29",
+"location_country": "{'latitude': 31.583202, 'longitude': 120.298386, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u6c5f\u82cf\u7701', 'city': '\u65e0\u9521\u5e02', 'cityCode': '0510', 'district': None, 'districtCode': None, 'startLatitude': 0.0, 'startLongitude': 0.0}",
+"summary_polyline": null,
+"average_heartrate": null,
+"average_speed": 5.428029996765847,
+"elevation_gain": 0.0,
+"source": "Keep",
 "streak": 1
 },
 {

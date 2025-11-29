@@ -12702,5 +12702,21 @@
 "elevation_gain": 0.0,
 "source": "xingzhe",
 "streak": 1
+},
+{
+"run_id": 204913066,
+"name": "\u884c\u8005\u9a91\u884c\u8f6f\u4ef6",
+"distance": 32044.573952282008,
+"moving_time": "1:28:51",
+"type": "Ride",
+"start_date": "2025-11-29 13:41:47",
+"start_date_local": "2025-11-29 13:41:47",
+"location_country": "\u5170\u6c60\u4e09\u8def, \u6e2d\u57ce\u8857\u9053, \u6e2d\u57ce\u533a, \u54b8\u9633\u5e02, \u9655\u897f\u7701, \u4e2d\u56fd",
+"summary_polyline": "usypEy|~vS}At@jAfSzB~N|ChFbCtHn@h@CpBdPhj@p}@we@iGwYmHqx@yI{^w_ByqDwQig@qAoJqByx@{Tmv@}I{bAmNyv@oCeLib@mt@uQqd@iF}`@uAaVkHs\\d@qOYoMi@Bt@dK]xQjHp\\nA~TjFxa@|Q~d@pb@|t@`Jvc@xGh_@~IvbAtTpu@rB~x@|BbNdSzh@nRza@hG`Oh_A`vBjKfb@pHxx@dGlYg|@`d@s@}@sOgi@sKqo@JwBu@yE",
+"average_heartrate": null,
+"average_speed": 6.010987423050461,
+"elevation_gain": 0.0,
+"source": "xingzhe",
+"streak": 1
 }
 ]

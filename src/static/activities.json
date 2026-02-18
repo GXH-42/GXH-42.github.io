@@ -12718,5 +12718,21 @@
 "elevation_gain": 0.0,
 "source": "xingzhe",
 "streak": 1
+},
+{
+"run_id": 208073496,
+"name": "\u884c\u8005\u9a91\u884c\u8f6f\u4ef6",
+"distance": 8249.702591412362,
+"moving_time": "2:57:26",
+"type": "Hike",
+"start_date": "2026-02-17 11:07:45",
+"start_date_local": "2026-02-17 11:07:45",
+"location_country": "\u9c81\u5c71\u53bf, \u5e73\u9876\u5c71\u5e02, \u6cb3\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "gzzlEwoklTGfAr@WYu@~Ar@[a@dAHa@rBFxAoAvEhAxBx@dFs@tBCpDcJxU}AxBc@nBOpBlAzCoBfJDbEgAfLpBnBvBpEYfBwBd@[hAp@dBf@qAvBgAfB|Cz@Nn@CbCiBhAfCfDfAdFwB@[lBQfBiBvCpB`AMMO|@lAeAa@b@[Sp@D{Cf@PHb@eAl@\\CPu@\\x@Yw@T\\k@Fz@_@a@Tj@z@?|DyEbKY`EvD|NjAtAOxAP\\HYQz@X|COn@w@^Gn@iAd@h@V_@a@o@`Bu@XZIAr@GU?\\[@MnA_@g@Vx@]dAlAag@q@eCVuB|BqE`@kCdAuB[kC}Aq@Pq@Bl@l@aATNsAz@Ea@JTm@Bak@yVr@_QzAsEgAcDIcCxNg]?yCr@yBk@sEoAyDtAoEJqDi@]yBr@DkAkBoE",
+"average_heartrate": null,
+"average_speed": 0.7749110080229534,
+"elevation_gain": 0.0,
+"source": "xingzhe",
+"streak": 1
 }
 ]

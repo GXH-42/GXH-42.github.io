@@ -12750,5 +12750,21 @@
 "elevation_gain": 0.0,
 "source": "xingzhe",
 "streak": 1
+},
+{
+"run_id": 208303462,
+"name": "\u884c\u8005\u9a91\u884c\u8f6f\u4ef6",
+"distance": 35454.54142573988,
+"moving_time": "2:22:13",
+"type": "Ride",
+"start_date": "2026-02-22 14:13:35",
+"start_date_local": "2026-02-22 14:13:35",
+"location_country": "\u767d\u9f9f\u6e56\u6e7f\u5730\u516c\u56ed, \u671b\u6e56\u8def, \u6e56\u6ee8\u8def\u8857\u9053, \u5e73\u9876\u5c71\u5e02\u57ce\u4e61\u4e00\u4f53\u5316\u793a\u8303\u533a, \u65b0\u534e\u533a, \u5e73\u9876\u5c71\u5e02, \u6cb3\u5357\u7701, 467000, \u4e2d\u56fd",
+"summary_polyline": "ix`mEubzqTv@_IhDeJZ?rJ~NjEcDpAaGxBiCg@FgBbC}@`F{ChC}@EIx@{D`GqFzF_C|JBnEc@vCeAtFcBzEHbC}Aa@qBhBy@zHwCdMmB|BsBzEq@^wC~H}FxEgApD_DpFgBrLuEhLWdJjBtR[~WXf@dAFaFw@kB_AoK}AsC^FtFrArNhMl`ARfMw@lJyRl{@uApLwB~`@mBrIwAlDxAt@~L~RxBnGnApIl\\ldDH`Ak@Rx@jAlEjc@jJ`hBp@tU|Cpe@hBjP}@cHVuAwCsi@p@iAn}AhItjBkBdRYs@gMxb@`Ld^u@V_CvAu{Bt@{CfAcBzR{MdCmFdBklA^uGfDiGnGwCv@oPk@sAl@bAjG~B`PvBjXgU`BaCr@sC^gTi@mB{DaD}\\uDieAmHcCh@qAfC|MocAfIoaAEkDwCwTA{HhBWMh@Je@|EQDyRze@Qbq@gC",
+"average_heartrate": null,
+"average_speed": 4.154991377679583,
+"elevation_gain": 0.0,
+"source": "xingzhe",
+"streak": 1
 }
 ]

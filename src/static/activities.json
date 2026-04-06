@@ -12766,5 +12766,37 @@
 "elevation_gain": 0.0,
 "source": "xingzhe",
 "streak": 1
+},
+{
+"run_id": 9223370261492042807,
+"name": "Hiking from keep",
+"distance": 2597.0,
+"moving_time": "2:05:29",
+"type": "Hiking",
+"start_date": "2026-04-05 02:13:24",
+"start_date_local": "2026-04-05 10:13:24",
+"location_country": "{'latitude': 34.183647, 'longitude': 112.838616, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u6cb3\u5357\u7701', 'city': '\u5e73\u9876\u5c71\u5e02', 'cityCode': '0375', 'district': None, 'districtCode': None, 'startLatitude': 0.0, 'startLongitude': 0.0}",
+"summary_polyline": null,
+"average_heartrate": 117.0,
+"average_speed": 0.3449329260193917,
+"elevation_gain": 0.0,
+"source": "Keep",
+"streak": 1
+},
+{
+"run_id": 210504055,
+"name": "\u884c\u8005\u9a91\u884c\u8f6f\u4ef6",
+"distance": 7056.732261500474,
+"moving_time": "3:16:14",
+"type": "Hike",
+"start_date": "2026-04-05 11:15:37",
+"start_date_local": "2026-04-05 11:15:37",
+"location_country": "\u683e\u5ddd\u4e61, \u683e\u5ddd\u53bf, \u6d1b\u9633\u5e02, \u6cb3\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "k~zlE_plhThBnACd@NYKTp@`@pB@C\\~@JWVr@GS^Rv@W@`Av@Ub@i@M^z@P_@hABQl@REC^n@i@Ix@m@D`@UQdA_AOWgIr@jCAzCXf@z@sBz@b@j@{@SAt@Pv@m@nDSPdAb@G~@v@p@g@|@LGe@D`@?[]NPQH\\x@mBhANtAy@A{@cAMZ_At@z@Lw@xAATw@Tf@PgBzAm@i@sBrAg@b@aAj@f@c@kBjAf@IgCHfAQ_@Gb@SOTMBZHk@G~Aa@K}@vBz@iBbJ_@F_@^l@q@gA`@p@TQCx@Fs@TtAh@KRdASVxBJ@|Cq@NIf@lAn@Cl@nAlAFpDn@?Ig@nAn@SWOZBq@b@?}A`AhBbA]pAN^WHx@d@cA`@fAI`@pAYb@XfCI_DR?^~@_@f@|@lAyCcCAnAn@hCgA_@dBb@LrAd@h@[cCz@p@qA[a@fEi@LJVNkB_@iBoCsFgAyGeB{B_@kB`@GY]ZDWGFZwA}@k@Pw@aBj@?m@H]y@PMz@x@XSg@@TRkAw@i@LPk@u@Bn@A_@g@Wl@d@jBi@o@AfAm@BYl@Kw@O\\cCy@z@v@i@|@S][j@c@k@wA@oBp@Wj@VPi@Lt@f@YHBl@mDgAaBbAs@EUfAsD[I{AiAeAy@ASh@i@_@]\\K}@On@gBa@Um@mAc@YaBw@S",
+"average_heartrate": null,
+"average_speed": 0.5993487567097396,
+"elevation_gain": 0.0,
+"source": "xingzhe",
+"streak": 1
 }
 ]
